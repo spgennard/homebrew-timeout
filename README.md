@@ -47,4 +47,10 @@ This is a C# implementation of the GNU timeout command that provides:
 - Signal handling on Unix systems
 - Proper exit codes matching GNU timeout behavior
 
-##########################################################-t#################################ard##########################################################-t#######epository: [Issues](##########################rd######meout/issues)
+## Support
+
+For issues or feature requests, please visit the [GitHub repository](https://github.com/spgennard/homebrew-timeout/issues).
+
+## License
+
+This project is licensed under the MIT License.
